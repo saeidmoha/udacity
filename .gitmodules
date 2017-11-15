@@ -10,3 +10,6 @@
 [submodule "decision_tree"]
 	path = decision_tree
 	url = https://github.com/saeidmoha/decision_tree.git
+[submodule "enron_data"]
+	path = enron_data
+	url = https://github.com/saeidmoha/enron_data.git
