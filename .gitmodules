@@ -4,3 +4,9 @@
 [submodule "ML"]
 	path = ML
 	url = https://github.com/saeidmoha/ML.git
+[submodule "svm"]
+	path = svm
+	url = https://github.com/saeidmoha/svm.git
+[submodule "decision_tree"]
+	path = decision_tree
+	url = https://github.com/saeidmoha/decision_tree.git
