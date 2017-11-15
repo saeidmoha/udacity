@@ -16,3 +16,6 @@
 [submodule "regression"]
 	path = regression
 	url = https://github.com/saeidmoha/regression.git
+[submodule "outliers"]
+	path = outliers
+	url = https://github.com/saeidmoha/outliers.git
