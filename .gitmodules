@@ -13,3 +13,6 @@
 [submodule "enron_data"]
 	path = enron_data
 	url = https://github.com/saeidmoha/enron_data.git
+[submodule "regression"]
+	path = regression
+	url = https://github.com/saeidmoha/regression.git
