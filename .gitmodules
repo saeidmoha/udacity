@@ -1,3 +1,6 @@
 [submodule "naive_bayes"]
 	path = naive_bayes
 	url = https://github.com/saeidmoha/naive_bayes.git
+[submodule "ML"]
+	path = ML
+	url = https://github.com/saeidmoha/ML.git
