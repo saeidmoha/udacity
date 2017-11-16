@@ -31,3 +31,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/saeidmoha/tools.git
+[submodule "evaluation"]
+	path = evaluation
+	url = https://github.com/saeidmoha/evaluation.git
