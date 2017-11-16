@@ -19,3 +19,6 @@
 [submodule "outliers"]
 	path = outliers
 	url = https://github.com/saeidmoha/outliers.git
+[submodule "K_mean"]
+	path = K_mean
+	url = https://github.com/saeidmoha/K_mean.git
