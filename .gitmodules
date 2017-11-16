@@ -25,3 +25,6 @@
 [submodule "text_processing"]
 	path = text_processing
 	url = https://github.com/saeidmoha/text_processing.git
+[submodule "feature_selection"]
+	path = feature_selection
+	url = https://github.com/saeidmoha/feature_selection.git
