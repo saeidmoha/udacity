@@ -22,3 +22,6 @@
 [submodule "K_mean"]
 	path = K_mean
 	url = https://github.com/saeidmoha/K_mean.git
+[submodule "text_processing"]
+	path = text_processing
+	url = https://github.com/saeidmoha/text_processing.git
