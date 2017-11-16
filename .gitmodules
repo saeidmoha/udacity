@@ -37,3 +37,6 @@
 [submodule "pca"]
 	path = pca
 	url = https://github.com/saeidmoha/pca.git
+[submodule "bag-of-words"]
+	path = bag-of-words
+	url = https://github.com/saeidmoha/bag-of-words.git
