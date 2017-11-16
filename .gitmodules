@@ -34,3 +34,6 @@
 [submodule "evaluation"]
 	path = evaluation
 	url = https://github.com/saeidmoha/evaluation.git
+[submodule "pca"]
+	path = pca
+	url = https://github.com/saeidmoha/pca.git
